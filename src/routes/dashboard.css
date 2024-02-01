@@ -1,0 +1,26 @@
+.perfil{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.publiText{
+    width: 100vh;
+    margin: 6%;
+}
+.textarea{
+    width: 100%;
+}
+
+.profile-image{
+    height: 100%;
+    width: 100vh;
+    object-fit: cover;
+    clip-path: circle(50%);
+   
+    
+}
+.profile-header{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
